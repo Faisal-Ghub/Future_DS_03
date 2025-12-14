@@ -28,13 +28,14 @@ ACL (Average Comfort Level) – Indicates student learning comfort
 TEI (Teaching Effectiveness Index) – Measures teaching quality based on core parameters
 
 CEI (Course Effectiveness Index) – Measures course design and relevance
+--
 
 📊 Dashboard Overview
 
 Below is the main dashboard showcasing KPIs, sentiment analysis, rating distributions, and parameter-wise insights:
 
 ![Dashboard Overview](Dashboard-Overview.png)
-
+--
 
 🔍 Key Insights
 
@@ -52,7 +53,7 @@ Most parameters fall into the “Average” sentiment bucket—signaling stabili
 
 Course Design Needs Attention
 CEI is lower than TEI, highlighting improvement opportunities in course structure, relevance, and delivery methods.
-
+--
 🛠 Tools & Techniques Used
 
 Power BI Desktop
@@ -65,6 +66,7 @@ Custom Visuals (Box plots, histograms, stacked bar charts)
 
 Interactive Slicers (Parameter, Student ID, Sentiment)
 
+--
 📁 Repository Contents
 
 Student_Feedback_Analysis.pbix – Power BI report file
@@ -73,6 +75,7 @@ Dashboard-Overview.png – Screenshot of the dashboard
 
 README.md – Project documentation
 
+--
 🚀 How to Use
 
 Download the .pbix file
@@ -86,6 +89,7 @@ Parameter
 Student ID
 
 Sentiment
+--
 
 📬 Contact
 
