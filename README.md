@@ -5,7 +5,7 @@ This project focuses on analyzing student feedback data to evaluate teaching eff
 The dashboard transforms raw student ratings into actionable insights that help identify strengths, gaps, and improvement areas in teaching and course design.
 
 The analysis is built on 1,000+ student responses across multiple teaching parameters, using interactive visuals and calculated indices.
-
+--
 🎯 Objectives
 
 Measure overall Teaching Effectiveness and Course Effectiveness
@@ -15,6 +15,7 @@ Understand student sentiment across different teaching parameters
 Identify strong-performing and weak-performing areas
 
 Enable interactive exploration using slicers and filters
+---
 
 🧮 Key Metrics & KPIs
 
